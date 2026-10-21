@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.RusYaz6" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/bg</item>
+    </style>
+    <color name="bg">#FFFDF8F3</color>
+    <color name="bg_night">#FF1A1C1E</color>
+    <color name="icon_bg">#FF2E5E8C</color>
+</resources>
